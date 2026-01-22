@@ -11,7 +11,7 @@ api_hash = os.environ.get("TELEGRAM_API_HASH", "")
 bot_token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 
 # TARGET CHANNEL (ID recommended)
-TARGET_CHANNEL = --1003560361279  # <-- CHANGE THIS
+TARGET_CHANNEL = -1003560361279  # <-- CHANGE THIS
 
 # =========================================
 
